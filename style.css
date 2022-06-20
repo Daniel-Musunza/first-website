@@ -124,7 +124,7 @@ color: #088178;
 }
 /*home page*/
 #hero{
-    background-image: url("img/Background");
+    background-image: url("img/Background.jpg");
     height: 90vh;
     width: 100%;
     background-size: cover;
